@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ai_based_b2b_prediction_website/static/css/main.e6c13ad2.css",
+    "main.js": "/ai_based_b2b_prediction_website/static/js/main.e33031a7.js",
+    "static/js/787.61194234.chunk.js": "/ai_based_b2b_prediction_website/static/js/787.61194234.chunk.js",
+    "static/media/hrclogo.svg": "/ai_based_b2b_prediction_website/static/media/hrclogo.6dd1e1c17fe843f8833100ad00580c18.svg",
+    "static/media/abclogo.svg": "/ai_based_b2b_prediction_website/static/media/abclogo.3c8385fb94faf2191c20db88aedb3c87.svg",
+    "index.html": "/ai_based_b2b_prediction_website/index.html",
+    "main.e6c13ad2.css.map": "/ai_based_b2b_prediction_website/static/css/main.e6c13ad2.css.map",
+    "main.e33031a7.js.map": "/ai_based_b2b_prediction_website/static/js/main.e33031a7.js.map",
+    "787.61194234.chunk.js.map": "/ai_based_b2b_prediction_website/static/js/787.61194234.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e33031a7.js"
+  ]
+}
